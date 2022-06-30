@@ -9,4 +9,5 @@ AULA 3 GRUPO 1  - COHORTE 2022
 - Gabriela Cáceres
 - Matias Campo
 - David Camarda
+- Paola Cartalá
 
